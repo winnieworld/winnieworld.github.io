@@ -276,6 +276,7 @@ timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 # Plugins (previously gems:)
 plugins:
+  - jemoji
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

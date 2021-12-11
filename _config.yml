@@ -222,6 +222,7 @@ paginate_path: /page:num/
 
 # Plugins (previously gems:)
 plugins:
+  - jemoji
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
