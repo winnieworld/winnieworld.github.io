@@ -62,7 +62,7 @@ algolia:
 google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  : "086ece8e07a7a28192dcd391d5546dcc4f9d6a87"
+naver-site-verification  : "086ece8e07a7a28192dcd391d5546dcc4f9d6a87"
 
 # Social Sharing
 twitter:
