@@ -1,6 +1,6 @@
 ---
 layout: single
-title: " 포트폴리오 첫 시작!" 
+title: "포트폴리오 첫 시작!" 
 categories: project
 tag: [Talk],[project]
 toc: true
