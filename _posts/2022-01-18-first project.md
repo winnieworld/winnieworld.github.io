@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "포트폴리오 첫 시작!" 
-categories: project
+categories: Talk
 tag: [Talk],[project]
 toc: true
 authour_profile: false
