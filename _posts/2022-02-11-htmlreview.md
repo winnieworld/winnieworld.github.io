@@ -62,4 +62,4 @@ sidebar:
 
   -참고: [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
 
-많이 늦었지만 새해복 많이 받으세요 :satisfied:
+많이 늦었지만 여러분 새해복 많이 받으세요 :satisfied:
